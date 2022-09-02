@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mac 使用Github Pages搭建博客"
+category: dev
 ---
 
 ## 在GitHub上创建username.github.io的仓库
