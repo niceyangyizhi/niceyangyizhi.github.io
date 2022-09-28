@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "node config模块"
+title:  "VSCode debug配置环境变量"
 category: dev
 ---
 
