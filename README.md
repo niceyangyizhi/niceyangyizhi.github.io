@@ -1,5 +1,3 @@
 # niceyangyizhi.github.io
 
-Hello, world.
-
-jelly
+欢迎来到我的个人博客！
